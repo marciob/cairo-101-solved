@@ -1,10 +1,10 @@
-# 1. What is this exercise?
+## 1. What is this exercise?
 
 It teaches you about:
 
 - understanding asserts.
 
-# 2. How to pass?
+## 2. How to pass?
 
 You pass if you are able to call claim_points() without an error.
 
