@@ -78,4 +78,4 @@ func copy_secret_value_to_readable_mapping{
 
 ```
 
-`copy_secret_value_to_readable_mapping()` reads internally the `values_mapped_secret_storage()` mapping and store its value into the public mapping `user_values_public_storage()`, just be aware that it does subtracting - 20. Also you should notice that `claim_points()` does a sum when checking the value.
+`copy_secret_value_to_readable_mapping()` reads internally the `values_mapped_secret_storage()` mapping and store its value into the public mapping `user_values_public_storage()`, just be aware that it does subtracting - 20. Also you should note that `claim_points()` does a sum when checking the value.

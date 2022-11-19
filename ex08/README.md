@@ -86,4 +86,4 @@ func set_user_values{syscall_ptr: felt*, pedersen_ptr: HashBuiltin*, range_check
 }
 ```
 
-Nice, now you just need to pass your desired values. One very important detail that you need to notice is that the `set_user_values_internal()` sets the value in a back foward way, take it into account when passing the values.
+Nice, now you just need to pass your desired values. One very important detail that you need to note is that the `set_user_values_internal()` sets the value in a backwards way, take it into account when passing the values.
