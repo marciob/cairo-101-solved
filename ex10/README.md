@@ -45,7 +45,7 @@ func claim_points{syscall_ptr: felt*, pedersen_ptr: HashBuiltin*, range_check_pt
 
 ## 3. How to call claim_points() successfully?
 
-`claim_points()` is asking to pass an `secret_value_i_guess` and `next_secret_value_i_chose` values. It checks if:
+`claim_points()` is asking to pass a `secret_value_i_guess` and `next_secret_value_i_chose` values. It checks if:
 
 - `next_secret_value_i_chose` is not 0
 - `next_secret_value_i_chose` is the same as the secret_value returned from `Iex10b` contract
