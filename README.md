@@ -11,6 +11,6 @@ You probably will be good if you study those resources:
 
 - [Cairo Documentation](https://www.cairo-lang.org/docs/)
 
-- [StarkNet's Cairo Language: the Felt Integer Type Explained](https://www.youtube.com/watch?v=jcrAq71WwSM&t)
+- [StarkNet's Cairo Language: the Felt Integer Type Explained](https://www.youtube.com/watch?v=jcrAq71WwSM&t) (video)
 
-- [Stark Recursion](https://www.youtube.com/watch?v=hjTCIT9BGkA&)
+- [Stark Recursion](https://www.youtube.com/watch?v=hjTCIT9BGkA&) (video)
